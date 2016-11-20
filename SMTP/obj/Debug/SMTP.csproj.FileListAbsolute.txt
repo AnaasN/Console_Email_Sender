@@ -1,0 +1,6 @@
+C:\Users\amand_000\Source\Repos\SMTP\SMTP\bin\Debug\SMTP.exe.config
+C:\Users\amand_000\Source\Repos\SMTP\SMTP\bin\Debug\SMTP.exe
+C:\Users\amand_000\Source\Repos\SMTP\SMTP\bin\Debug\SMTP.pdb
+C:\Users\amand_000\Source\Repos\SMTP\SMTP\obj\Debug\SMTP.csprojResolveAssemblyReference.cache
+C:\Users\amand_000\Source\Repos\SMTP\SMTP\obj\Debug\SMTP.exe
+C:\Users\amand_000\Source\Repos\SMTP\SMTP\obj\Debug\SMTP.pdb
